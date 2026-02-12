@@ -51,6 +51,8 @@
 如果你有问题或想交流，欢迎：
 - 提 Issue
 - 关注后续更新
+![e485913a75e4cdab6823847973119f44](https://github.com/user-attachments/assets/aebf6eee-5f5b-42e4-b67a-0b2d28955161)
+
 
 ---
 
