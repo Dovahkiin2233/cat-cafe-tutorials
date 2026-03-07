@@ -82,7 +82,7 @@
 
 | 赞助者 | 贡献 |
 |--------|------|
-| **whutzefeng.xie** | Claude Max Plan — 布偶猫的猫粮 |
+| [**@whutzefengxie-ops**](https://github.com/whutzefengxie-ops) | Claude Max Plan — 布偶猫的猫粮 |
 
 > 三只猫猫的并发开发效率很高，但猫粮消耗也很高。如果你觉得这个教程有帮助，欢迎赞助猫粮让猫猫们吃饱继续写代码！
 
