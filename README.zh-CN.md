@@ -4,7 +4,7 @@
 
 **从零搭建 AI 猫猫协作系统 — 一个真实项目的完整复盘**
 
-English | [简体中文](./README.zh-CN.md)
+[English](./README.md) | 简体中文
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![课程数](https://img.shields.io/badge/%E8%AF%BE%E7%A8%8B-11-green.svg)](#%E6%95%99%E7%A8%8B%E7%9B%AE%E5%BD%95)
